@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ELIC/static/css/main.4c8a01c1.css",
+    "main.js": "/ELIC/static/js/main.165ceaed.js",
+    "static/js/453.da18b81b.chunk.js": "/ELIC/static/js/453.da18b81b.chunk.js",
+    "static/media/CITES-logo.jpg": "/ELIC/static/media/CITES-logo.566c11008668cfdf4e21.jpg",
+    "index.html": "/ELIC/index.html",
+    "main.4c8a01c1.css.map": "/ELIC/static/css/main.4c8a01c1.css.map",
+    "main.165ceaed.js.map": "/ELIC/static/js/main.165ceaed.js.map",
+    "453.da18b81b.chunk.js.map": "/ELIC/static/js/453.da18b81b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c8a01c1.css",
+    "static/js/main.165ceaed.js"
+  ]
+}
