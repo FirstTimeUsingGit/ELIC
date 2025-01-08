@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ELIC/static/css/main.4c8a01c1.css",
-    "main.js": "/ELIC/static/js/main.26e707ba.js",
+    "main.js": "/ELIC/static/js/main.b84849b6.js",
     "static/js/453.da18b81b.chunk.js": "/ELIC/static/js/453.da18b81b.chunk.js",
     "static/media/SC location.jpg": "/ELIC/static/media/SC location.c1433fa1e4612120148e.jpg",
     "static/media/CITES-logo.jpg": "/ELIC/static/media/CITES-logo.566c11008668cfdf4e21.jpg",
     "index.html": "/ELIC/index.html",
     "main.4c8a01c1.css.map": "/ELIC/static/css/main.4c8a01c1.css.map",
-    "main.26e707ba.js.map": "/ELIC/static/js/main.26e707ba.js.map",
+    "main.b84849b6.js.map": "/ELIC/static/js/main.b84849b6.js.map",
     "453.da18b81b.chunk.js.map": "/ELIC/static/js/453.da18b81b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c8a01c1.css",
-    "static/js/main.26e707ba.js"
+    "static/js/main.b84849b6.js"
   ]
 }
